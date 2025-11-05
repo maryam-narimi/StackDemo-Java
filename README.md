@@ -18,7 +18,6 @@ Stack after pushes: [30, 20, 10]
 Popped element: 30
 Stack after pop: [20, 10]```
 
-***********
 ## Course
 Data Structures and Algorithms
 
