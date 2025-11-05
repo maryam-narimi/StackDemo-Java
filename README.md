@@ -72,14 +72,14 @@ Choose an option: 4
 Exiting program...
 ```
 
---------------------------
-
 ---
 
 ## Course
+
 **Data Structures and Algorithms**
 
 ---
 
-##Author 
+## Author 
+
 **Maryam Narimi**
