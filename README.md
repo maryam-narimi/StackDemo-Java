@@ -72,8 +72,9 @@ Choose an option: 4
 Exiting program...```
 -------------------------
 
+
 ## Course
 Data Structures and Algorithms
 
-### Author
-Maryam Narimi
+**Author**  
+**Maryam Narimi**
