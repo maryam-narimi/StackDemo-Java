@@ -76,5 +76,5 @@ Exiting program...```
 Data Structures and Algorithms
 -----------------------
 
-### Author
+## Author
 **Maryam Narimi**
