@@ -10,16 +10,16 @@ The program allows users to push and pop elements interactively through console 
 - Displays stack after each operation
 
 ## Example Output
-``Enter number of elements to push: 3
+```Enter number of elements to push: 3
 Enter element 1: 10
 Enter element 2: 20
 Enter element 3: 30
 Stack after pushes: [30, 20, 10]
 Popped element: 30
-Stack after pop: [20, 10]``
+Stack after pop: [20, 10]```
 
 ## Course
 Data Structures and Algorithms
 
-**Author**  
+##Author  
 **Maryam Narimi**
