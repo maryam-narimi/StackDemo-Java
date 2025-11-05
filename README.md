@@ -69,12 +69,17 @@ Stack elements: 10
 3. Display
 4. Exit
 Choose an option: 4
-Exiting program...```
+Exiting program...
+```
+
 --------------------------
 
+---
+
 ## Course
-Data Structures and Algorithms
+**Data Structures and Algorithms**
 
+---
 
-**Author**  
+##Author 
 **Maryam Narimi**
