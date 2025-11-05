@@ -74,6 +74,8 @@ Exiting program...```
 
 ## Course
 Data Structures and Algorithms
+-----------------------
+
 
 ### Author
 Maryam Narimi
